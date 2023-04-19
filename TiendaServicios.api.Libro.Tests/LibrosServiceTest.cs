@@ -69,6 +69,8 @@ namespace TiendaServicios.api.Libro.Tests
         [Fact]
         public async void GetLibros()
         {
+            //Este Test es para unit test libro
+
             //System.Diagnostics.Debugger.Launch();
             //que metodo dentro de mi microservice libro se esta encargando 
             //de realizar la consulta de libros de la base de datos
